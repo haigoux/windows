@@ -1,29 +1,10 @@
-# .
+<!-- image.png -->
+## Features
+- Dynamic window creation
+- Resizable windows
+- Draggable windows
+- Context menu support
+- Customizable window properties (title, size, position)
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/haigou/windows/main/image.png)
