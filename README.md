@@ -7,4 +7,4 @@
 - Customizable window properties (title, size, position)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/haigou/windows/main/image.png)
+![screenshot](https://raw.githubusercontent.com/haigoux/windows/refs/heads/main/image.png)
